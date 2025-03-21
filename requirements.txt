@@ -1,0 +1,4 @@
+autogen==0.5.3
+python-dotenv==1.0.1
+openai==1.61.1
+streamlit==1.42.2
