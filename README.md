@@ -1,6 +1,9 @@
 # 🌍 WorldInfo-Navigator
 
 An **AI-powered multi-agent system** built with **AutoGen** that provides **real-time weather, time zones, and country information**. This project demonstrates how AI agents can **collaborate and retrieve information** dynamically from external APIs.
+
+📖 **Read the Full Article on Medium:**  
+[👉 Building an AI-Powered Multi-Agent System with AutoGen](https://medium.com/@Sotirios_Kastanas/building-an-ai-powered-multi-agent-system-with-autogen-7fe69e4bc5cd) 
 ---
 
 ## 🚀 Features
